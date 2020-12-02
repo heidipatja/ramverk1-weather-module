@@ -1,0 +1,10 @@
+/.bin
+/build
+/vendor
+memory::
+composer.lock
+.DS_Store
+
+config/api_weather_config.php
+config/api_weatherprog_config.php
+config/api_ip_config.php
