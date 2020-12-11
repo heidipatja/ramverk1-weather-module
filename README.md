@@ -40,19 +40,7 @@ config/api_weatherprog_config_sample.php
 config/api_ip_config_sample.php
 ```
 
-4. Add namespace
-
-Add namespace to your composer.json file.
-
-```
-"autoload": {
-    "psr-4": {
-        "Hepa19\\": "src/"
-    }
-},
-```
-
-5. View your new routes
+4. View your new routes
 
 The routes are now available through following urls:
 
