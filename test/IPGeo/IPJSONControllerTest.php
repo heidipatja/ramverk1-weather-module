@@ -23,6 +23,7 @@ class IPGeoJSONControllerTest extends TestCase
 
         $di = new DIMagic();
         $di->loadServices(ANAX_INSTALL_PATH . "/config/di");
+        $di->loadServices(ANAX_INSTALL_PATH . "/test/config/di");
 
         $this->controller = new IPGeoJSONController();
         $this->validator = new IPGeoValidator();
