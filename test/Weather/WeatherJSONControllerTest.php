@@ -24,7 +24,7 @@ class WeatherControllerJSONTest extends TestCase
         $di->loadServices(ANAX_INSTALL_PATH . "/config/di");
         $di->loadServices(ANAX_INSTALL_PATH . "/test/config/di");
 
-        $this->controller = new WeatherJSONController();
+        $this->controller = new WeatherJSONControllerMock();
 
         $this->controller->setDi($di);
     }

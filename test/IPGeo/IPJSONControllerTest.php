@@ -25,7 +25,7 @@ class IPGeoJSONControllerTest extends TestCase
         $di->loadServices(ANAX_INSTALL_PATH . "/config/di");
         $di->loadServices(ANAX_INSTALL_PATH . "/test/config/di");
 
-        $this->controller = new IPGeoJSONController();
+        $this->controller = new IPGeoJSONControllerMock();
         $this->validator = new IPGeoValidator();
 
         $request = $di->get("request");

@@ -42,8 +42,6 @@ class WeatherController implements ContainerInjectableInterface
             $empty = "no";
         }
 
-        // $ipstack = $this->di->get("ipstack");
-        // $ipstack->setUrl($location);
         $ipstackRes = $this->getIPData($location);
 
         $lon = $ipstackRes["longitude"] ?? null;
@@ -85,7 +83,7 @@ class WeatherController implements ContainerInjectableInterface
 
 
     /**
-     * Get weather data
+     * Get ip data
      *
      */
     public function getIPData($location)
