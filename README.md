@@ -1,5 +1,13 @@
 # Ramverk1 Weather Module
 
+[![CircleCI](https://circleci.com/gh/heidipatja/ramverk1-weather-module.svg?style=svg)](https://circleci.com/gh/heidipatja/ramverk1-weather-module)
+
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/heidipatja/ramverk1-weather-module/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/heidipatja/ramverk1-weather-module/?branch=main)
+
+[![Build Status](https://scrutinizer-ci.com/g/heidipatja/ramverk1-weather-module/badges/build.png?b=main)](https://scrutinizer-ci.com/g/heidipatja/ramverk1-weather-module/build-status/main)
+
+[![Code Coverage](https://scrutinizer-ci.com/g/heidipatja/ramverk1-weather-module/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/heidipatja/ramverk1-weather-module/?branch=main)
+
 ## About
 
 This module implements weather and IP validation services. It can be used with the Anax framework.
