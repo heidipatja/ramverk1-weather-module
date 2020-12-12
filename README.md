@@ -8,6 +8,8 @@
 
 [![Code Coverage](https://scrutinizer-ci.com/g/heidipatja/ramverk1-weather-module/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/heidipatja/ramverk1-weather-module/?branch=main)
 
+[![Build Status](https://travis-ci.com/heidipatja/ramverk1-weather-module.svg?branch=master)](https://travis-ci.com/heidipatja/ramverk1-weather-module)
+
 ## About
 
 This module implements weather and IP validation services. It can be used with the Anax framework.
