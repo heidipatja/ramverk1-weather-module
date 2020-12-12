@@ -8,7 +8,7 @@
 
 [![Code Coverage](https://scrutinizer-ci.com/g/heidipatja/ramverk1-weather-module/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/heidipatja/ramverk1-weather-module/?branch=main)
 
-[![Build Status](https://travis-ci.org/heidipatja/ramverk1-weather-module.svg?branch=master)](https://travis-ci.org/heidipatja/ramverk1-weather-module)
+[![Build Status](https://travis-ci.org/heidipatja/ramverk1-weather-module.svg?branch=main)](https://travis-ci.org/heidipatja/ramverk1-weather-module)
 
 ## About
 
